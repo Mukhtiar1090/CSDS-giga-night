@@ -1,0 +1,8 @@
+{
+  "name": "CCS Welcome & Farewell 2026",
+  "description": "Official portal for Computer Cell Society's Annual Welcome Party & Farewell Gala on 12 Nov 2026 at UET Civil Lawn. Register, verify payments, and generate digital event passes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
